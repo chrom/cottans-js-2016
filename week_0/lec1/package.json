@@ -1,0 +1,24 @@
+{
+  "name": "lec1",
+  "version": "1.0.0",
+  "description": "cottans",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrom/cottans-js-2016.git"
+  },
+  "author": "andrey zabara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrom/cottans-js-2016/issues"
+  },
+  "homepage": "https://github.com/chrom/cottans-js-2016#readme",
+  "devDependencies": {
+    "babel-core": "^6.9.1",
+    "babel-preset-es2015": "^6.9.0",
+    "posthtml": "^0.8.7"
+  }
+}
